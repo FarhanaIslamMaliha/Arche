@@ -61,12 +61,10 @@
 }
 
 #blog-part .blog .overlay1 .btn h5{
-    padding: 13px 25px;
     color: black;
     font-size: 20px;
     display: inline-block;
-    margin-left: 41%;
-    margin-right: 10px;
+    margin-left: 149px;
     font-family: 'Montserrat Alternates', sans-serif;
     position: relative;
    
@@ -75,10 +73,10 @@
 #blog-part .blog .overlay1 .btn h5:before{
     position: absolute;
     bottom: 0;
-    right: 23px;
+    right: 29px;
     background: #d9b257;
-    width:78%;
-    height: 2px;
+    width:85%;
+    height: 3px;
     content: "";
     
      
@@ -121,12 +119,10 @@
 
 
 #blog-part .blog .overlay2 .btn h5{
-    padding: 13px 25px;
     color: black;
     font-size: 20px;
     display: inline-block;
-    margin-left: 41%;
-    margin-right: 10px;
+     margin-left: 149px;
     font-family: 'Montserrat Alternates', sans-serif;
     position: relative;
    
@@ -134,11 +130,11 @@
 
 #blog-part .blog .overlay2 .btn h5:before{
     position: absolute;
-    bottom: 0;
-    right: 23px;
+    bottom: -1px;
+    right: 25px;
     background: #d9b257;
-    width:78%;
-    height: 2px;
+    width:85%;
+    height: 3px;
     content: "";
     
      
@@ -348,7 +344,7 @@
     
 }
 
-#text-part .text  i{
+#text-part .text i{
     float: left;
     margin-top: 25px;
     margin-right: 7px;
@@ -363,7 +359,7 @@
     font-weight: 400;
     font-family: 'Arimo', sans-serif;
     line-height: 26px;
-    margin-right: 18px;
+    margin-right: 11px;
 }
 #text-part .text .part1  ul li{
     padding-bottom: 18px;
@@ -634,7 +630,7 @@
    margin-left: 301px;
 }
 #contact-us .msg form input{
-    color:#ddd;
+    color:#d0c9c9;
     font-size: 14px;
     font-weight: 400;
     font-style: italic;
@@ -666,7 +662,7 @@
     margin-bottom: 30px;
 }
 #contact-us .msg .btn a{
-    padding: 15px 330px;
+    padding: 15px 305px;
     color: #444;
     background: #ddd;
     text-align: center;
